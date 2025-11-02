@@ -1,4 +1,10 @@
 streamlit
 pandas
-plotly
+numpy
+matplotlib
+statsmodels
+scipy
+scikit-learn
+requests
 pymongo
+plotly
